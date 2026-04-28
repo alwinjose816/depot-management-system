@@ -10,7 +10,7 @@ This system was developed to manage and optimize depot operations by integrating
 
 ---
 
-## 🔧 System Modules
+## System Modules
 
 ### 1. Depot Management App (Python)
 
@@ -144,7 +144,7 @@ Depot app
 <img width="497" height="761" alt="image" src="https://github.com/user-attachments/assets/ba270cf9-9b82-40de-ab22-3d6cbe581f9c" />
 <img width="549" height="864" alt="image" src="https://github.com/user-attachments/assets/8a85670f-9d62-4f3b-865b-9755a1bbc775" />
 
-##Admin app
+## Admin app
 <img width="1650" height="924" alt="image" src="https://github.com/user-attachments/assets/96e6a5c4-465f-4b24-b6d4-61a2312014ef" />
 <img width="1568" height="907" alt="image" src="https://github.com/user-attachments/assets/b94a0936-6378-415f-9a83-71aff93583e3" />
 <img width="1596" height="941" alt="image" src="https://github.com/user-attachments/assets/ec995a41-84a2-454e-8851-0f30c1b6f6fc" />
@@ -153,7 +153,7 @@ Depot app
 <img width="1542" height="909" alt="image" src="https://github.com/user-attachments/assets/a5736607-0f53-472c-8903-d34f2ac29144" />
 <img width="1577" height="958" alt="image" src="https://github.com/user-attachments/assets/257f07ba-b7d2-4ebf-8063-379bf1d7178f" />
 
-##Database
+## Database
 <img width="1915" height="923" alt="image" src="https://github.com/user-attachments/assets/8e0b2715-bd6e-414b-a416-75cbc7b76f26" />
 ---
 
