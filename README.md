@@ -22,7 +22,7 @@ Handles inventory tracking, damage reporting, and stock monitoring
 ### 2. Admin App (JavaScript)
 
 Manages approvals, monitoring, and administrative workflows
-🔗 https://github.com/alwinjose816/admin-app
+🔗https://github.com/alwinjose816/admin-monitoring-react
 
 ---
 
