@@ -33,7 +33,7 @@ Tracks employee location and activity for operational visibility
 
 ---
 
-### 4. Saathi Model App (Python)
+### 4. Saathi Model App (JavaScript)
 
 Supports analytics and intelligent decision-making
 🔗 https://github.com/alwinjose816/saathi-model-app
